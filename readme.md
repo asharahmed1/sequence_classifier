@@ -2,7 +2,7 @@
 
 This project implements a machine learning model to classify DNA, RNA, and protein sequences. It includes a graphical user interface (GUI) for easy interaction. 🖥️
 
-Check out [this Medium article](https://medium.com/@example/sequence-classification-with-ml-123abc) for more details on the implementation.
+Check out [this Medium article](https://medium.com/@asharahmed.py/building-a-sequence-classifier-with-machine-learning-and-a-slick-gui-8418e0f2e97e) for more details on the implementation.
 
 ## Overview 
 
